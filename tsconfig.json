@@ -1,0 +1,11 @@
+{
+    "include": ["src/**/*", "tests/**/*"],
+    "compilerOptions": {
+        "outDir": "dist",
+    },
+    "exclude": [
+        "node_modules",
+        ".npm"
+    ]
+
+}
